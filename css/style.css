@@ -1,0 +1,15 @@
+
+/*/////// MEDIA ////////*/
+
+img, video, audio, iframe, table, form {
+  width: 100%; /* IE */
+  max-width: 100%; /* FF, Safari, Chrome */
+}
+
+/*/////// LAYOUT STYLES  ////////*/
+
+/* This is to put space between "rows" */
+
+.row {
+  margin-bottom: 20px;
+}
